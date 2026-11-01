@@ -1,0 +1,161 @@
+{
+  "topic_title": "Gen Z Trung Quốc bắt trend nuôi gạch rêu làm thú cưng",
+  "topic_highlight": "",
+  "source_label": "xiaohongshu.com",
+  "segments": [
+    {
+      "platform": "narrator",
+      "author_name": "",
+      "author_handle": "",
+      "card_content": "",
+      "likes_count": "",
+      "sentiment": "drama",
+      "narration": "U là trời thú cưng đời mới của giới trẻ giờ không phải chó mèo mà là cục gạch đóng rêu.",
+      "media_query": "",
+      "card": {
+        "type": "hero",
+        "kicker": "TREND ĐỘC LẠ",
+        "headline": "NUÔI GẠCH RÊU",
+        "subline": "",
+        "items": [],
+        "versus": null
+      }
+    },
+    {
+      "platform": "xiaohongshu",
+      "author_name": "小苔藓日记",
+      "author_handle": "@moss_diary",
+      "card_content": "",
+      "likes_count": "52.3K",
+      "sentiment": "healing",
+      "narration": "Trên Tiểu Hồng Thư có bạnflex nuôi một viên gạch phủ rêu cả năm trời, ngày nào cũng xịt nước ngắm nó xanh mướt để tìm bình yên.",
+      "media_query": "mossy brick water spray",
+      "card": {
+        "type": "media",
+        "kicker": "1 NĂM XỊT NƯỚC",
+        "headline": "GẠCH XANH BÌNH YÊN",
+        "subline": "Không cần nói chuyện không cần chứng minh.",
+        "items": [],
+        "versus": null
+      }
+    },
+    {
+      "platform": "twitter",
+      "author_name": "Asia Trends",
+      "author_handle": "@asiatrends",
+      "card_content": "",
+      "likes_count": "14.2K",
+      "sentiment": "drama",
+      "narration": "Trend này đang triệu view vì đây là thú cưng siêu tiết kiệm, áp lực bằng không cho Gen Z.",
+      "media_query": "smartphone viral video",
+      "card": {
+        "type": "media",
+        "kicker": "TRIỆU VIEW",
+        "headline": "THÚ CƯNG 0 ĐỒNG",
+        "subline": "Nuôi cực nhàn không sợ quào.",
+        "items": [],
+        "versus": null
+      }
+    },
+    {
+      "platform": "xiaohongshu",
+      "author_name": "小苔藓日记",
+      "author_handle": "@moss_diary",
+      "card_content": "Nghèo quá không nuôi nổi mèo nên nuôi gạch, nghe buồn mà đúng",
+      "likes_count": "52.3K",
+      "sentiment": "drama",
+      "narration": "Cư dân mạng nghe xong phải thốt lên rằng vì nghèo quá không nuôi nổi mèo nên mới đành ra nông nỗi này.",
+      "media_query": "",
+      "card": {
+        "type": "quote",
+        "kicker": "BÌNH LUẬN HOT",
+        "headline": "Nghèo quá không nuôi nổi mèo nên nuôi gạch, nghe buồn mà đúng",
+        "subline": "",
+        "items": [],
+        "versus": null
+      }
+    },
+    {
+      "platform": "narrator",
+      "author_name": "",
+      "author_handle": "",
+      "card_content": "",
+      "likes_count": "",
+      "sentiment": "drama",
+      "narration": "Đúng là đỉnh nóc kịch trần, nuôi gạch vừa rẻ lại vừa ngoan, sáng nào chủ nhân cũng phải chào nó một câu cho có tình nghĩa.",
+      "media_query": "",
+      "card": {
+        "type": "bullets",
+        "kicker": "LỢI ÍCH KỶ LỤC",
+        "headline": "TẠI SAO CHỌN GẠCH",
+        "subline": "",
+        "items": [
+          "Không tốn tiền mua hạt",
+          "Không bao giờ cãi chủ",
+          "Cực kỳ tiết kiệm"
+        ],
+        "versus": null
+      }
+    },
+    {
+      "platform": "reddit",
+      "author_name": "u/plant_curious",
+      "author_handle": "r/houseplants",
+      "card_content": "",
+      "likes_count": "3.1K",
+      "sentiment": "drama",
+      "narration": "Nhưng cảnh báo từ chuyên gia Reddit lại khiến hội mê gạch đứng ngồi không yên vì rêu ẩm dễ sinh nấm mốc trắng.",
+      "media_query": "",
+      "card": {
+        "type": "versus",
+        "kicker": "GÓC NHÌN TRÁI CHIỀU",
+        "headline": "CHỮA LÀNH HAY RỦI RO",
+        "subline": "",
+        "items": [],
+        "versus": {
+          "left_label": "HỘI MÊ GẠCH",
+          "left_text": "Rẻ hơn đi trị liệu",
+          "right_label": "CHUYÊN GIA",
+          "right_text": "Cẩn thận nấm mốc",
+          "winner": ""
+        }
+      }
+    },
+    {
+      "platform": "reddit",
+      "author_name": "u/plant_curious",
+      "author_handle": "r/houseplants",
+      "card_content": "Still cheaper than therapy",
+      "likes_count": "3.1K",
+      "sentiment": "healing",
+      "narration": "Dù sao thì các fan cứng vẫn chốt hạ một câu xanh rờn rằng nuôi gạch vẫn rẻ chán so với tiền đi trị liệu tâm lý.",
+      "media_query": "",
+      "card": {
+        "type": "quote",
+        "kicker": "CHỐT HẠ",
+        "headline": "Still cheaper than therapy",
+        "subline": "",
+        "items": [],
+        "versus": null
+      }
+    },
+    {
+      "platform": "narrator",
+      "author_name": "",
+      "author_handle": "",
+      "card_content": "",
+      "likes_count": "",
+      "sentiment": "drama",
+      "narration": "Nuôi gạch rêu là chữa lành hay chỉ là cô đơn đội lốt trend, bạn đứng về phe nào?",
+      "media_query": "",
+      "card": {
+        "type": "cta",
+        "kicker": "BÌNH LUẬN NGAY",
+        "headline": "Nuôi gạch là chữa lành hay chỉ là cô đơn đội lốt trend, bạn đứng về phe nào?",
+        "subline": "",
+        "items": [],
+        "versus": null
+      }
+    }
+  ]
+}

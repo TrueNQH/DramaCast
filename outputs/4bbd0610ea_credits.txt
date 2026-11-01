@@ -1,0 +1,12 @@
+segment 1: Pixabay / choxyltd: https://pixabay.com/videos/id-189018/
+segment 2: Pixabay / elchao: https://pixabay.com/videos/id-736/
+segment 3: Pixabay / Kanenori: https://pixabay.com/videos/id-283431/
+segment 4: Pixabay / McPix22: https://pixabay.com/videos/id-271161/
+segment 5: Pixabay / Radds: https://pixabay.com/videos/id-237279/
+segment 6: Pixabay / adege: https://pixabay.com/videos/id-42166/
+segment 7: Pixabay / Activedia: https://pixabay.com/videos/id-1360/
+segment 8: Pixabay / Joe_hackney: https://pixabay.com/videos/id-117192/
+segment 9: Pixabay / Coverr-Free-Footage: https://pixabay.com/videos/id-3627/
+segment 10: Pixabay / Amorn_mimi: https://pixabay.com/videos/id-174004/
+segment 11: Pixabay / FreeCreativeStuff: https://pixabay.com/videos/id-22908/
+segment 12: Pixabay / videoplasty: https://pixabay.com/videos/id-80699/

@@ -1,0 +1,4 @@
+segment 1: Openverse (pdm): https://www.flickr.com/photos/72213316@N00/52654112036
+segment 2: Openverse (pdm): https://www.flickr.com/photos/50398299@N08/16664384836
+segment 3: Openverse (pdm): https://www.flickr.com/photos/27865228@N06/6220016453
+segment 7: Openverse (pdm): https://www.flickr.com/photos/42075236@N04/55200789154

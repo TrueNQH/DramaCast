@@ -17,9 +17,9 @@ remotion-video/out/
 remotion-video/public/current_job/*
 !remotion-video/public/current_job/.gitkeep
 
-# Generated videos and media
-outputs/
+# Generated media (rendered videos in outputs/ are kept)
 *.mp4
+!outputs/*.mp4
 *.wav
 *.mp3
 # Pixabay's license forbids redistributing tracks as standalone files; only the credits list is kept.
