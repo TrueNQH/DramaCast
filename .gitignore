@@ -1,0 +1,33 @@
+# Secrets
+.env
+*.env
+!.env.example
+gemini-auth*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+backend/.cache/
+backend/package-lock.json
+
+# Node / Remotion
+node_modules/
+remotion-video/out/
+remotion-video/public/current_job/*
+!remotion-video/public/current_job/.gitkeep
+
+# Generated videos and media
+outputs/
+*.mp4
+*.wav
+*.mp3
+# Pixabay's license forbids redistributing tracks as standalone files; only the credits list is kept.
+remotion-video/public/assets/bgm/*
+!remotion-video/public/assets/bgm/credits.json
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

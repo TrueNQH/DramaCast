@@ -1,0 +1,28 @@
+{
+  "name": "dramacast-remotion-video",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts DramaCastVideo ../outputs/preview.mp4 --props=public/current_job/inputProps.json",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.242",
+    "@remotion/google-fonts": "4.0.242",
+    "@remotion/media-utils": "4.0.242",
+    "@remotion/renderer": "4.0.242",
+    "@remotion/tailwind": "4.0.242",
+    "@remotion/zod-types": "4.0.242",
+    "lucide-react": "0.468.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.242",
+    "zod": "3.22.3"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.7.2"
+  }
+}

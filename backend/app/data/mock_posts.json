@@ -1,0 +1,36 @@
+[
+  {
+    "platform": "xiaohongshu",
+    "author_name": "小苔藓日记",
+    "author_handle": "@moss_diary",
+    "content": "Mình nuôi một viên gạch phủ rêu được 1 năm rồi. Mỗi ngày xịt nước một lần, nhìn nó xanh lên từng chút là thấy bình yên lạ thường. Không cần nói chuyện, không cần chứng minh gì cả.",
+    "likes": "52.3K",
+    "top_comments": [
+      "Nghèo quá không nuôi nổi mèo nên nuôi gạch, nghe buồn mà đúng",
+      "Mình cũng nuôi, sáng nào cũng chào nó một câu",
+      "Cẩn thận nấm mốc nha, rêu ẩm dễ sinh bào tử"
+    ]
+  },
+  {
+    "platform": "twitter",
+    "author_name": "Asia Trends",
+    "author_handle": "@asiatrends",
+    "content": "Gen Z in China are 'raising' moss-covered bricks as low-cost, low-pressure pets. Videos of the trend have racked up millions of views.",
+    "likes": "14.2K",
+    "top_comments": [
+      "This is the most 2020s thing I have ever seen",
+      "Honestly a brick won't judge you"
+    ]
+  },
+  {
+    "platform": "reddit",
+    "author_name": "u/plant_curious",
+    "author_handle": "r/houseplants",
+    "content": "Retired botany professor warns: keeping damp moss indoors can encourage mold growth. Wear gloves and a mask when handling it.",
+    "likes": "3.1K",
+    "top_comments": [
+      "Good reminder, my brick got fuzzy white spots after 2 months",
+      "Still cheaper than therapy"
+    ]
+  }
+]

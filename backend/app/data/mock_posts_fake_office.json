@@ -1,0 +1,36 @@
+[
+  {
+    "platform": "xiaohongshu",
+    "author_name": "打工人小林",
+    "author_handle": "@xiaolin_work",
+    "content": "Thất nghiệp 3 tháng, mình trả khoảng 30 tệ mỗi ngày để ngồi ở một 'văn phòng giả vờ đi làm'. Có bàn, có wifi, có trà, sáng 9 giờ đến, chiều 6 giờ về. Ít nhất bố mẹ không hỏi nữa.",
+    "likes": "88.1K",
+    "top_comments": [
+      "Trả tiền để đi làm, đúng là đỉnh cao của nghề nghiệp",
+      "Có gói thuê thêm 'sếp' mắng mỗi sáng không ạ",
+      "Nghe buồn cười mà thấy thương ghê"
+    ]
+  },
+  {
+    "platform": "twitter",
+    "author_name": "China Trends Daily",
+    "author_handle": "@chinatrendsd",
+    "content": "'Pretend-to-work' companies are popping up in Chinese cities: jobless young people pay a small daily fee for a desk, lunch and a sense of routine. Some even pay extra to 'role-play' as a manager.",
+    "likes": "21.4K",
+    "top_comments": [
+      "Paying to go to the office is the most dystopian sentence of the year",
+      "Honestly the routine helps when you're job hunting"
+    ]
+  },
+  {
+    "platform": "reddit",
+    "author_name": "u/career_watch",
+    "author_handle": "r/careerguidance",
+    "content": "A labour researcher says these spaces are a symptom of high youth unemployment, but can help people keep a daily structure while they apply for jobs. The risk is using them to hide from family instead of looking for work.",
+    "likes": "4.7K",
+    "top_comments": [
+      "Structure matters more than people think",
+      "The real product here is not a desk, it's avoiding awkward family dinners"
+    ]
+  }
+]
